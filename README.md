@@ -1,29 +1,5 @@
-# README #
+Basic website
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This was my first project done in HTML and CSS. I did it during a small introductory class of Bitmaker in Toronto.
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+You can see it live here https://codepen.io/DalonsoAG/full/pwmbMv/
